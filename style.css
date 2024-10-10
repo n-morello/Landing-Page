@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kantumruy+Pro:ital,wght@0,100..700;1,100..700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+body {
+    background-image:url(pexels-muffin-1653877.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position:top center;
+    background-size:cover;
+}
+h1 {
+    color: #fffded;
+    background-color:rgba(12, 90, 33, 0.95);
+    font-size: 60pt;
+    font-family:"Merriweather";
+    font-weight: 900;
+}
+a {
+    font-size: 43.95pt;
+    background-color: #88292F;
+    padding: 15px 75px 15px 75px;
+    text-decoration: none;
+    color: #fffded;
+    text-align: center;
+    margin-top: -900px;
+    font-family:"Merriweather";
+    font-weight:900;
+}
+p{
+    max-width: 50%;
+    width: 50ch;
+    font-size: 20pt;
+    background-color:rgba(200, 157, 159, 0.95);
+    padding: 0px 200px 75px 200px;
+    margin: 0;
+    height: fit-content;
+    padding-bottom: 24.432%;
+    font-family:"Kantumruy Pro";
+}
+img {
+    width: 60pt;
+    height: 60pt;
+    margin-top: 58px;
+}
+.brand {
+    display: flex;
+    background-color: #0C5A21;
+    justify-content: center;
+    gap: 10px;
+}
+main {
+    display:flex;
+    justify-content: flex-end;
+}
+.menu {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 350px;
+    align-items: center;
+}
+h2 {
+    font-size:43.95pt;
+    margin: 0 0 0 0;
+    background-color:rgba(200, 157, 159, 0.95);
+    padding: 75px 175px 75px 128px;
+    text-align: center;
+    font-family: "Merriweather";
+    font-weight: 900;
+
+}
+.h2 {
+    display: flex;
+    justify-content: flex-end;
+}
